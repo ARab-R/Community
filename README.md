@@ -1,2 +1,2 @@
-# Coomunity
-This the main repo for the community where all meeting notes are added
+# Community
+This is the main repository for the community where all meeting notes are added.
