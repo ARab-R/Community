@@ -6,3 +6,4 @@ We use the following tools for our community:
 - Keybase to store all credentials 
 - Tinyletter for our newsletter 
 - GitHub for all source codes. Everything is open-source. 
+- [Zenodo Community](https://zenodo.org/communities/arabr/?page=1&size=20) to create a DOI for all talks and contributions
